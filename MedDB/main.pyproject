@@ -1,0 +1,3 @@
+{
+    "files": ["XMLReader.py","XMLWriter.py","SettingsDialog.ui","main.py","SettingsManager.py","mainwindow.ui","MedicalDB.py","MedicalDB_record.py","SerialDevice.py","PersonRecord.py"]
+}
